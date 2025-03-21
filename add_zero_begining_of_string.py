@@ -9,3 +9,5 @@ while True:
         print(f"The number you have inputed which is ({number}), is not a valid number \nthe progam only accpets number from 0 - 100\n")
     else: 
         break
+
+print(f"{number:06d}")
